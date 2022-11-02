@@ -40,7 +40,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"Java\"\r\n}",
+							"raw": "{\r\n    \"title\": \"Java\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -73,7 +73,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"React\"\r\n}",
+							"raw": "{\r\n    \"title\": \"React\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -81,7 +81,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/collections/5/",
+							"raw": "http://127.0.0.1:8000/api/collections/6/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -93,7 +93,7 @@
 							"path": [
 								"api",
 								"collections",
-								"5",
+								"6",
 								""
 							]
 						}
@@ -106,7 +106,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/collections/5/",
+							"raw": "http://127.0.0.1:8000/api/collections/6/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -118,7 +118,7 @@
 							"path": [
 								"api",
 								"collections",
-								"5",
+								"6",
 								""
 							]
 						}
@@ -163,7 +163,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"front_text\": \"Hello\",\r\n    \"back_text\": \"World\"\r\n}",
+							"raw": "{\r\n    \"word\": \"Hello\",\r\n    \"definition\": \"World\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -198,7 +198,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"front_text\": \"Hello\",\r\n    \"back_text\": \"Universe\"\r\n}",
+							"raw": "{\r\n    \"word\": \"Hello\",\r\n    \"definition\": \"Universe\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -206,7 +206,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/collections/2/cards/3/",
+							"raw": "http://127.0.0.1:8000/api/collections/2/cards/5/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -220,7 +220,7 @@
 								"collections",
 								"2",
 								"cards",
-								"3",
+								"5",
 								""
 							]
 						}
@@ -233,7 +233,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/collections/2/cards/4/",
+							"raw": "http://127.0.0.1:8000/api/collections/2/cards/5/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -247,7 +247,7 @@
 								"collections",
 								"2",
 								"cards",
-								"4",
+								"5",
 								""
 							]
 						}
